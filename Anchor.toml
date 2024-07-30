@@ -6,6 +6,7 @@ skip-lint = false
 
 [programs.localnet]
 first_try = "5g4ZntfHahpwUHvdGcKiBfQLjqzC9T8CY44GBTp8xygU"
+second-try = "9vXeG29pgE2FGtRWSv1XLBuqR6pXY565a5kXr86HEDrE"
 
 [registry]
 url = "https://api.apr.dev"
