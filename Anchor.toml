@@ -6,6 +6,7 @@ skip-lint = false
 
 [programs.localnet]
 first_try = "5g4ZntfHahpwUHvdGcKiBfQLjqzC9T8CY44GBTp8xygU"
+ownable-like = "4Zj5nmy5UxjE5VJ119PxYCcj9EEvhst6G98QCsAcmXQJ"
 second-try = "9vXeG29pgE2FGtRWSv1XLBuqR6pXY565a5kXr86HEDrE"
 
 [registry]
