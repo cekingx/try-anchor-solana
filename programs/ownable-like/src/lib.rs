@@ -1,7 +1,7 @@
 use anchor_lang::prelude::*;
 use std::mem::size_of;
 
-declare_id!("CykwMH3TPp7jwZ5HJ8cW2FD4Jgyc7aoDmPS7ZsPmeFHX");
+declare_id!("HNWCbjmHgVX28RQLXHHPYeQsRccNUGwAW5xBmdqKcW1f");
 
 #[program]
 pub mod ownable_like {

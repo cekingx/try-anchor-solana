@@ -12,8 +12,8 @@ const StorageLayout = struct<Storage>([
 
 async function main() {
   const connection = new Connection('http://localhost:8899', 'confirmed');
-  const txHash = '2dKSgPy799w2RfgCtfjrGNFu4gVo3WSCXTUGgL7C4gdcHu6s1WQ5oc3tgKLz34XuRPcPtJx2hQe42rnc3HkmfXhw'
-  const dataAccount = new PublicKey('Hek1BBTfwUpn3S8izWiyr4S25m4ij5RvdhoqKFXy3EsB')
+  const txHash = '5mxW9nzE9CFw88fLFqaHLaWbFqL2BjLB6cqncPuRw5heodw595xHNZMAud8Xju9oFZofsKQj2k2N8pBYPETHNisf'
+  const dataAccount = new PublicKey('HVkQCFfSwaHQVYuTtNTTYmFGoiBcQkm8HSMDPa9Ma92Y')
 
   const parsed = await connection.getParsedTransaction(txHash);
   console.log('parsed:', parsed)
