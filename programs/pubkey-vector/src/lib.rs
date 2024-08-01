@@ -1,6 +1,6 @@
 use anchor_lang::prelude::*;
 
-declare_id!("E7Sf9yQ3b6vvKv8GM6CdZDivBPh5JEDkuUNVa7cCGNMm");
+declare_id!("H1MDvLyrpCTnsiArSHFR5aKJkYvnQ8GqXsnNP8BwpeZc");
 
 #[program]
 pub mod pubkey_vector {
